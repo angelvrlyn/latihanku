@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A84A-B6C7
+
+ Directory of c:\
+
+14/09/2020  08:28    <DIR>          inetpub
+16/06/2019  19:03    <DIR>          Intel
+07/12/2019  16:14    <DIR>          PerfLogs
+09/11/2020  23:07    <DIR>          Program Files
+11/11/2020  07:32    <DIR>          Program Files (x86)
+14/09/2020  08:49    <DIR>          Users
+11/11/2020  07:13    <DIR>          Windows
+               0 File(s)              0 bytes
+               7 Dir(s)  27.853.926.400 bytes free

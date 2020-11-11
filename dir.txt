@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A84A-B6C7
+
+ Directory of C:\Users\Hanryaso Soeseno\Latihan\Project03
+
+11/11/2020  19:34    <DIR>          .
+11/11/2020  19:34    <DIR>          ..
+11/11/2020  19:32                21 angelenes.txt
+11/11/2020  19:34                 0 dir.txt
+               2 File(s)             21 bytes
+               2 Dir(s)  27.854.630.912 bytes free
